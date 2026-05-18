@@ -1,0 +1,24 @@
+{
+  "name": "tugas",
+  "version": "1.0.0",
+  "description": "ini adalah aplikasi web sederhana dibuat menggunakan nodejs oleh aku",
+  "keywords": [
+    "npm",
+    "init"
+  ],
+  "homepage": "https://github.com/sanzii1/11-mei-2026#readme",
+  "bugs": {
+    "url": "https://github.com/sanzii1/11-mei-2026/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanzii1/11-mei-2026.git"
+  },
+  "license": "ISC",
+  "author": "san",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
